@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanjuV95
 - 👀 I’m interested in learning new coding languages
 - 🌱 I’m currently learning python and R also SAS
-- 💞️ I’m looking to collaborate on python
+- :) I’m looking to collaborate on python
 - 📫 reach me by my mail (ranjeetha.veeranna@gmail.com)
 
 <!---
